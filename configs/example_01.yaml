@@ -1,0 +1,8 @@
+model_class: VAE
+model_params:
+  x_dim: 784
+  h_dim1: 512
+  h_dim2: 256
+  z_dim: 2
+data_params:
+  batch_size: 128
